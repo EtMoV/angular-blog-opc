@@ -1,0 +1,14 @@
+li {
+  display: flex;
+  flex-direction: column;
+}
+li>*:first-child{
+  align-self: flex-end;
+}
+li>*:last-child{
+  display: flex;
+  width: 15%;
+}
+button {
+  margin: auto;
+}
