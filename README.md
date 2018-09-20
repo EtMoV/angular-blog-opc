@@ -1,6 +1,10 @@
 # AngularBlogOpc
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2 as part of an Openclassroom exercise (https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular).
+
+# Installing
+
+In the project folder run `npm install` to install dependencies
 
 ## Development server
 
